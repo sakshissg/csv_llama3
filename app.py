@@ -3,7 +3,7 @@ import requests
 import json
 
 # Load CSV
-df = pd.read_csv("car.csv")
+df = pd.read_csv("cars.csv")
 table_text = df.to_string(index=False)
 
 def ask_ollama(question):
