@@ -1,0 +1,41 @@
+Car_ID,Brand,Model,Year,Engine_Type,Transmission,Fuel_Type,Mileage_kmpl,Price_USD,Color
+1,Toyota,Corolla,2021,1.8L I4,Automatic,Petrol,16.5,21000,White
+2,Honda,Civic,2022,2.0L I4,Manual,Petrol,17.2,22500,Red
+3,Hyundai,Elantra,2020,1.6L I4,Automatic,Diesel,20.1,19500,Blue
+4,Maruti,Suzuki Swift,2023,1.2L I4,Manual,Petrol,22.3,12000,Silver
+5,Ford,Focus,2019,1.5L EcoBoost,Automatic,Petrol,18.0,18500,Black
+6,BMW,320i,2021,2.0L Turbo I4,Automatic,Petrol,14.2,41000,White
+7,Audi,A4,2020,2.0L Turbo,Automatic,Diesel,16.8,43000,Grey
+8,Mercedes,C200,2022,2.0L I4,Automatic,Petrol,15.3,52000,Black
+9,Kia,Seltos,2023,1.5L I4,CVT,Petrol,19.8,23000,Orange
+10,MG,Hector,2021,1.5L Turbo,Manual,Petrol,15.6,26000,White
+11,Tata,Nexon,2023,1.2L Turbo,AMT,Petrol,17.8,20000,Blue
+12,Jeep,Compass,2022,2.0L I4,Automatic,Diesel,15.2,33000,Green
+13,Nissan,Altima,2020,2.5L I4,CVT,Petrol,14.7,24000,Silver
+14,Chevrolet,Malibu,2021,1.5L Turbo,Automatic,Petrol,13.8,26000,Red
+15,Volkswagen,Passat,2020,2.0L Turbo,Automatic,Diesel,16.5,28000,Grey
+16,Skoda,Octavia,2021,2.0L Turbo,Automatic,Petrol,15.0,30000,White
+17,Tesla,Model 3,2023,Electric,Automatic,Electric,0,48000,Blue
+18,Hyundai,Kona EV,2022,Electric,Automatic,Electric,0,45000,Black
+19,Toyota,Innova,2021,2.4L Diesel,Manual,Diesel,12.8,30000,Silver
+20,Renault,Duster,2020,1.5L Diesel,Manual,Diesel,18.6,18000,Brown
+21,Maruti,Baleno,2023,1.2L I4,Manual,Petrol,21.0,13500,Red
+22,Kia,Carens,2022,1.5L Diesel,Automatic,Diesel,18.0,24500,Blue
+23,Hyundai,Creta,2021,1.4L Turbo,Automatic,Petrol,17.5,23500,White
+24,Ford,EcoSport,2020,1.5L I3,Manual,Petrol,16.0,19000,Orange
+25,Toyota,Yaris,2019,1.5L I4,Automatic,Petrol,17.1,18500,White
+26,BMW,X1,2022,2.0L Diesel,Automatic,Diesel,14.0,47000,Silver
+27,Mercedes,GLA200,2023,1.3L Turbo,Automatic,Petrol,15.8,55000,Grey
+28,Audi,Q3,2021,2.0L Turbo,Automatic,Petrol,14.9,50000,Black
+29,Honda,WRV,2020,1.5L Diesel,Manual,Diesel,21.2,17500,Blue
+30,Nissan,Magnite,2023,1.0L Turbo,Manual,Petrol,20.0,15500,Red
+31,Tata,Harrier,2022,2.0L Diesel,Automatic,Diesel,16.3,29000,White
+32,MG,ZS EV,2023,Electric,Automatic,Electric,0,47000,Green
+33,Skoda,Kushaq,2022,1.5L Turbo,Manual,Petrol,18.2,24000,Orange
+34,Volkswagen,Taigun,2023,1.0L Turbo,Automatic,Petrol,19.0,25000,Grey
+35,Maruti,Brezza,2022,1.5L I4,Automatic,Petrol,19.5,21000,Silver
+36,Renault,Kiger,2023,1.0L Turbo,Manual,Petrol,20.5,16000,Blue
+37,Hyundai,Venue,2021,1.2L I4,Automatic,Petrol,18.5,21000,White
+38,Kia,Sonet,2022,1.5L Diesel,Automatic,Diesel,19.0,22000,Red
+39,Toyota,Fortuner,2023,2.8L Diesel,Automatic,Diesel,11.5,48000,Black
+40,Ford,Endeavour,2021,3.2L Diesel,Automatic,Diesel,10.8,47000,White
